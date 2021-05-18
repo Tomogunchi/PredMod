@@ -16,9 +16,9 @@
 </p>
 
 ## Features
-- New simple and clean scar model that takes the form of an AK.
 - Custom textures that let you have a huge competitve advantage over other players.
 - Satisfying and easy to hear sounds for the best Venge competitive experience possible.
+- Extra in game settings menus to customise the game and improve performance.
 
 ## Installation Methods
 
