@@ -23,7 +23,7 @@
 ## Installation Methods
 
 #### Quick Installation
-1. Right click [PredMod](https://github.com/Tomogunchi/PredMod/releases/download/v3.1/PredMod.v3.1.zip) or [PredMod Pro](https://github.com/Tomogunchi/PredMod/releases/download/v3.1/PredMod.Pro.v3.1.zip) and click "Copy Link Address"
+1. Right click [PredMod](https://github.com/Tomogunchi/PredMod/releases/download/v3.2/PredMod.v3.2.zip) and click "Copy Link Address"
 2. Go to your Venge Client settings
 3. Go to **Client**
 4. Paste the link into the **Resource URL** box
