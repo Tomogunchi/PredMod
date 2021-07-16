@@ -32,5 +32,6 @@
 #### Manual Installation
 1. Download the [latest release here](https://github.com/Tomogunchi/PredMod/releases/latest "Latest Release").
 2. Download and open **PredMod.zip**
-3. Extract the contents of **PredMod.zip** into your Venge Client resource swapper
-4. Launch or restart your client
+3. Extract the "files" folder from **PredMod.zip** into your Venge Client Resource Swapper
+4. Extract the "predmodscript.js" & "charfix.js" into your Venge Client Userscripts folder
+5. Launch or restart your client
