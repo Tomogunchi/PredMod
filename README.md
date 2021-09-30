@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="https://cdn.discordapp.com/attachments/828407160508776568/838839855349366824/831293603028008991.png" alt="PredMod - Made by Gunchi and Shady" align="center">
+  <img width="200" src="https://cdn.discordapp.com/attachments/828408313007964221/893156766903320617/PREDV5.png" alt="PredMod - Made by Gunchi and Shady" align="center">
 </p>
 
 <h1 align="center" style="margin-top: 0px;">PredMod</h1>
