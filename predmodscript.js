@@ -589,7 +589,7 @@ function loadGameScript() {
   M_Update.enabled = true;
 
   //Menu.js
-  Shop_Buy.enabled = false;  // TODO QUESTION GUNCHI OR NEXI ABOUT THIS ONE SEEMS FINE TO ME BUT EH??
+  Shop_Buy.enabled = true;  // TODO QUESTION GUNCHI OR NEXI ABOUT THIS ONE SEEMS FINE TO ME BUT EH??
   M_BG.element.margin = { x: -240, y: -150, z: -240, w: -150 };
   window.resolution = pc.app.root.findByName("Quality");
   resolution.script.slider.max = 110;
